@@ -20,14 +20,4 @@
 </p>
 
 <br />
- 
----
-
-<details>
-<summary>📚 <b>GitHub Stats</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soheejjang0912&show_icons=true&theme=react&line_height=27" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheejjang0912&layout=compact&theme=react&langs_count=6" />
-</p>
-</details>
+  
